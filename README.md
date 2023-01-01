@@ -3,8 +3,8 @@
 
 ### I <img width="25" src="https://github.com/gobardhanm/gobardhanm/blob/main/assets/gif/Heart.gif" /> Problem Solving ...
 
-<a href="https://codeforces.com/profile/gobardhanm" target="_blank">
-  <img align="left" alt="gobardhanm's Codeforces" width="22px" src="https://github.com/gobardhanm/gobardhanm/blob/main/assets/logo/Codeforces.svg" />
+<a href="https://codeforces.com/profile/GerrySup22" target="_blank">
+  <img align="left" alt="Gobardhanm's Codeforces" width="22px" src="https://github.com/gobardhanm/gobardhanm/blob/main/assets/logo/Codeforces.svg" />
 </a>
 
 <a href="https://www.codechef.com/users/ditu_22/" target="_blank">
