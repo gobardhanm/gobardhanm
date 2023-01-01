@@ -39,7 +39,7 @@
   <img align="left" alt="Gobardhan's Twitter" width="22px" src="https://github.com/gobardhanm/gobardhanm/blob/main/assets/logo/Instagram.svg" />
 </a>
 
-<img align="right" width="450px" alt="Coding Boy GIF" src="https://github.com/gobardhanm/gobardhanm/blob/main/assets/gif/Gojo.gif" />
+<img align="right" width="440px" alt="Coding Boy GIF" src="https://github.com/gobardhanm/gobardhanm/blob/main/assets/gif/Gojo.gif" />
 
 <br />
 <br />
