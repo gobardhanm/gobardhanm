@@ -53,9 +53,9 @@
 **Talking about Personal Stuffs:**
 
 - Currently working with Javascript, React, Node & Mongo 🛠 
-- 🔭 I’m currently doing on Competitive Programming 🔭
-- To reach me!!! <a href="mailto:gobardhanms364@gmail.com"><img alt="gmail" width="18px" src="https://github.com/gobardhanm/gobardhanm/blob/main/assets/logo/Gmail.svg" /></a> 
-- Looking for my Resume ? => <a href="https://raw.githubusercontent.com/gobardhanm/Resume/main/Gobardhan_CV.pdf" target="_blank" download><img alt="Download Resume" width="18px" src="https://github.com/gobardhanm/gobardhanm/blob/main/assets/download.png" /></a>
+- I’m currently doing on Competitive Programming 🔭
+- To reach me !  <a href="mailto:gobardhanms364@gmail.com"><img alt="gmail" width="18px" src="https://github.com/gobardhanm/gobardhanm/blob/main/assets/logo/Gmail.svg" /></a> 
+- Looking for my Resume ?   <a href="https://raw.githubusercontent.com/gobardhanm/Resume/main/Gobardhan_CV.pdf" target="_blank" download><img alt="Download Resume" width="18px" src="https://github.com/gobardhanm/gobardhanm/blob/main/assets/download.png" /></a>
 
 **Languages:**  
 <br />
