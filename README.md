@@ -39,7 +39,7 @@
   <img align="left" alt="Gobardhan's Twitter" width="22px" src="https://github.com/gobardhanm/gobardhanm/blob/main/assets/logo/Instagram.svg" />
 </a>
 
-<img align="right" width="430px" alt="Coding Boy GIF" src="https://github.com/gobardhanm/gobardhanm/blob/main/assets/gif/Gojo.gif" />
+<img align="right" width="450px" alt="Coding Boy GIF" src="https://github.com/gobardhanm/gobardhanm/blob/main/assets/gif/Gojo.gif" />
 
 <br />
 <br />
@@ -52,7 +52,7 @@
 
 **Talking about Personal Stuffs:**
 
-- Currently working with Javascript, React, Node & Mongo 🛠 
+- Currently working with JS, React, Node & Mongo 🛠 
 - I’m currently doing on Competitive Programming 🔭
 - To reach me !  <a href="mailto:gobardhanms364@gmail.com"><img alt="gmail" width="18px" src="https://github.com/gobardhanm/gobardhanm/blob/main/assets/logo/Gmail.svg" /></a> 
 - Looking for my Resume ?   <a href="https://raw.githubusercontent.com/gobardhanm/Resume/main/Gobardhan_CV.pdf" target="_blank" download><img alt="Download Resume" width="18px" src="https://github.com/gobardhanm/gobardhanm/blob/main/assets/download.png" /></a>
