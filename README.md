@@ -1,4 +1,4 @@
-## Hello <img width="30" src="https://github.com/gobardhanm/gobardhanm/blob/main/assets/gif/Hi.gif" /> World <img width="25" src="https://github.com/gobardhanm/gobardhanm/blob/main/assets/gif/Earth.gif" /> !!!, I am Gobardhan !
+## Hello World, I am Gobardhan !
 
 
 ### I <img width="25" src="https://github.com/gobardhanm/gobardhanm/blob/main/assets/gif/Heart.gif" /> Problem Solving ...
@@ -7,39 +7,39 @@
   <img align="left" alt="gobardhanm's Codeforces" width="22px" src="https://github.com/gobardhanm/gobardhanm/blob/main/assets/logo/Codeforces.svg" />
 </a>
 
-<a href="https://www.codechef.com/users/subh3ndu/" target="_blank">
+<a href="https://www.codechef.com/users/ditu_22/" target="_blank">
   <img align="left" alt="gobardhanm's Codechef" width="22px" src="https://github.com/gobardhanm/gobardhanm/blob/main/assets/logo/Codechef.svg" />
 </a>
 
-<a href="https://atcoder.jp/users/subh3ndu/" target="_blank">
-  <img align="left" alt="gobardhanm's Atcoder" width="22px" src="https://github.com/gobardhanm/gobardhanm/blob/main/assets/logo/Atcoder.svg" />
-</a>
+<!-- <a href="https://atcoder.jp/users//" target="_blank"> -->
+<!--   <img align="left" alt="Gobardhanm's Atcoder" width="22px" src="https://github.com/gobardhanm/gobardhanm/blob/main/assets/logo/Atcoder.svg" /> -->
+<!-- </a> -->
 
-<a href="https://leetcode.com/subh3ndu/" target="_blank">
-  <img align="left" alt="gobardhanm's Leetcode" width="22px" src="https://github.com/gobardhanm/gobardhanm/blob/main/assets/leetcode.png" />
+<a href="https://leetcode.com/gerry22/" target="_blank">
+  <img align="left" alt="Gobardhanm's Leetcode" width="22px" src="https://github.com/gobardhanm/gobardhanm/blob/main/assets/leetcode.png" />
 </a>
 
 <br />
 
 ### Check out my Socials:
 
-<!-- <a href="https://subhendu.vercel.app" target="_blank">
-  <img align="left" alt="Subhendu's Personal Website" width="22px" src="https://github.com/gobardhanm/gobardhanm/blob/main/assets/luffy.jpg" />
-</a> -->
+ <!-- <a href="https://" target="_blank"> -->
+ <!--  <img align="left" alt="Gobardhan's Personal Website" width="22px" src="https://github.com/gobardhanm/gobardhanm/blob/main/assets/luffy.jpg" /> -->
+<!-- </a> -->
 
-<a href="https://www.linkedin.com/in/subhendukarma/" target="_blank">
-  <img align="left" alt="Subhendu's Linkdein" width="22px" src="https://github.com/gobardhanm/gobardhanm/blob/main/assets/logo/Linkedin.svg" />
+<a href="https://www.linkedin.com/in/gerrymeher/" target="_blank">
+  <img align="left" alt="Gobardhan's Linkdein" width="22px" src="https://github.com/gobardhanm/gobardhanm/blob/main/assets/logo/Linkedin.svg" />
 </a>
 
-<a href="https://twitter.com/subhendukarma" target="_blank">
-  <img align="left" alt="Subhendu's Twitter" width="22px" src="https://github.com/gobardhanm/gobardhanm/blob/main/assets/logo/Twitter.svg" />
+<a href="https://twitter.com/me_gerry22" target="_blank">
+  <img align="left" alt="Gobardhan's Twitter" width="22px" src="https://github.com/gobardhanm/gobardhanm/blob/main/assets/logo/Twitter.svg" />
 </a>
 
-<a href="https://instagram.com/maikarmahoon" target="_blank">
-  <img align="left" alt="Subhendu's Twitter" width="22px" src="https://github.com/gobardhanm/gobardhanm/blob/main/assets/logo/Instagram.svg" />
+<a href="https://instagram.com/me_gerry22" target="_blank">
+  <img align="left" alt="Gobardhan's Twitter" width="22px" src="https://github.com/gobardhanm/gobardhanm/blob/main/assets/logo/Instagram.svg" />
 </a>
 
-<img align="right" width="450px" alt="Gojo Satoru Running GIF" src="https://github.com/gobardhanm/gobardhanm/blob/main/assets/gif/Gojo.gif" />
+<img align="right" width="450px" alt="Coding Boy GIF" src="https://github.com/gobardhanm/gobardhanm/blob/main/assets/gif/Gojo.gif" />
 
 <br />
 <br />
@@ -48,14 +48,14 @@
 - I am a Btech undergrad in India <img width="16px" src="https://github.com/gobardhanm/gobardhanm/blob/main/assets/gif/Flag.gif" />.
 - I am a Javascript developer trying to be fullstack 🚀.
 - I love to solve mind tackling problems 🧠.
-- I enjoy Movies, Music and Anime <img width="16px" src="https://github.com/gobardhanm/gobardhanm/blob/main/assets/gif/OP.gif" />.
+- I enjoy Cooking, Music and Movies. <img width="16px" src="https://github.com/gobardhanm/gobardhanm/blob/main/assets/gif/OP.gif" />.
 
 **Talking about Personal Stuffs:**
 
 - 🛠 with Javascript, React, Node & Mongo; 
 - 🔭 I’m currently working on CP;
-- <a href="mailto:subhendukarmakar61@gmail.com"><img alt="gmail" width="18px" src="https://github.com/gobardhanm/gobardhanm/blob/main/assets/logo/Gmail.svg" /></a> To reach me!!! 
-- <a href="https://raw.githubusercontent.com/subh3ndu/Resume/main/main.pdf" target="_blank" download><img alt="Download Resume" width="18px" src="https://github.com/gobardhanm/gobardhanm/blob/main/assets/download.png" /></a> looking for resume??? 
+- <a href="mailto:gobardhanms364@gmail.com"><img alt="gmail" width="18px" src="https://github.com/gobardhanm/gobardhanm/blob/main/assets/logo/Gmail.svg" /></a> To reach me!!! 
+- <a href="https://raw.githubusercontent.com/gobardhanm/Resume/main/Gobardhan_CV.pdf" target="_blank" download><img alt="Download Resume" width="18px" src="https://github.com/gobardhanm/gobardhanm/blob/main/assets/download.png" /></a> Looking for Resume ? 
 
 **Languages:**  
 <br />
