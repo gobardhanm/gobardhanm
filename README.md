@@ -90,9 +90,9 @@
 **Stats**
 
 <div>
-  <a href="https://github.com/subh3ndu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=subh3ndu&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subh3ndu&layout=compact&langs_count=6"/>
+  <a href="https://github.com/gobardhanm">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gobardhanm&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gobardhanm&layout=compact&langs_count=6"/>
 </div>
 
 ![Profile Views](https://gpvc.arturio.dev/gobardhanm)
