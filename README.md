@@ -3,8 +3,8 @@
 
 ### I <img width="25" src="https://github.com/gobardhanm/gobardhanm/blob/main/assets/gif/Heart.gif" /> Problem Solving ...
 
-<a href="https://codeforces.com/profile/GerrySup22" target="_blank">
-  <img align="left" alt="Gobardhanm's Codeforces" width="22px" src="https://github.com/gobardhanm/gobardhanm/blob/main/assets/logo/Codeforces.svg" />
+<a href="https://codeforces.com/profile/gobardhanm" target="_blank">
+  <img align="left" alt="gobardhanm's Codeforces" width="22px" src="https://github.com/gobardhanm/gobardhanm/blob/main/assets/logo/Codeforces.svg" />
 </a>
 
 <a href="https://www.codechef.com/users/ditu_22/" target="_blank">
@@ -89,10 +89,7 @@
 
 **Stats**
 
-<div>
-  <a href="https://github.com/gobardhanm">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gobardhanm&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gobardhanm&layout=compact&langs_count=6"/>
-</div>
+![GitHub Steak](http://github-readme-steak-stats.herokuapp.com?user=gobardhanm&theme=dark&hide_border=false)
 
 ![Profile Views](https://gpvc.arturio.dev/gobardhanm)
+
