@@ -89,7 +89,7 @@
 
 **Stats**
 
-![GitHub Steak](http://github-readme-steak-stats.herokuapp.com?user=gobardhanm&theme=dark&hide_border=false)
+![GitHub Steak](http://github-readme-streak-stats.herokuapp.com?user=gobardhanm&theme=dark&hide_border=false)
 
 ![Profile Views](https://gpvc.arturio.dev/gobardhanm)
 
