@@ -23,9 +23,9 @@
 
 ### Check out my Socials:
 
- <!-- <a href="https://" target="_blank"> -->
- <!--  <img align="left" alt="Gobardhan's Personal Website" width="22px" src="https://github.com/gobardhanm/gobardhanm/blob/main/assets/luffy.jpg" /> -->
-<!-- </a> -->
+ <a href="https:/gobardhanm.github.io/" target="_blank">
+  <img align="left" alt="Gobardhan's Personal Website" width="22px" src="https://github.com/gobardhanm/gobardhanm/blob/main/assets/luffy.jpg" />
+</a>
 
 <a href="https://www.linkedin.com/in/gerrymeher/" target="_blank">
   <img align="left" alt="Gobardhan's Linkdein" width="22px" src="https://github.com/gobardhanm/gobardhanm/blob/main/assets/logo/Linkedin.svg" />
@@ -39,7 +39,7 @@
   <img align="left" alt="Gobardhan's Twitter" width="22px" src="https://github.com/gobardhanm/gobardhanm/blob/main/assets/logo/Instagram.svg" />
 </a>
 
-<img align="right" width="450px" alt="Coding Boy GIF" src="https://github.com/gobardhanm/gobardhanm/blob/main/assets/gif/Gojo.gif" />
+<img align="right" width="450px" alt="Coding Boy GIF" src="https://github.com/gobardhanm/gobardhanm/blob/main/assets/gif/frontgif.gif" />
 
 <br />
 <br />
@@ -52,7 +52,7 @@
 
 **Talking about Personal Stuffs:**
 
-- Currently working with JS, React, Node & Mongo 🛠 
+- Currently working with JS & React 🛠 
 - I’m currently doing on Competitive Programming 🔭
 - To reach me !  <a href="mailto:gobardhanms364@gmail.com"><img alt="gmail" width="18px" src="https://github.com/gobardhanm/gobardhanm/blob/main/assets/logo/Gmail.svg" /></a> 
 - Looking for my Resume ?   <a href="https://raw.githubusercontent.com/gobardhanm/Resume/main/Gobardhan_CV.pdf" target="_blank" download><img alt="Download Resume" width="18px" src="https://github.com/gobardhanm/gobardhanm/blob/main/assets/download.png" /></a>
@@ -82,7 +82,7 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/emacs/emacs.png"></code>
+<!-- <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/emacs/emacs.png"></code> -->
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 
