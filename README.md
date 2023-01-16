@@ -23,7 +23,7 @@
 
 ### Check out my Socials:
 
- <a href="https://www.gobardhanm.github.io/" target="_blank">
+ <a href="https://gobardhanm.github.io" target="_blank">
   <img align="left" alt="Gobardhan's Personal Website" width="22px" src="https://github.com/gobardhanm/gobardhanm/blob/main/assets/gm.png" />
 </a>
 
