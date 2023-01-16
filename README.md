@@ -24,7 +24,7 @@
 ### Check out my Socials:
 
  <a href="https:/gobardhanm.github.io/" target="_blank">
-  <img align="left" alt="Gobardhan's Personal Website" width="22px" src="https://github.com/gobardhanm/gobardhanm/blob/main/assets/luffy.jpg" />
+  <img align="left" alt="Gobardhan's Personal Website" width="22px" src="https://github.com/gobardhanm/gobardhanm/blob/main/assets/gm.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/gerrymeher/" target="_blank">
