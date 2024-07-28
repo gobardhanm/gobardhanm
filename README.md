@@ -7,15 +7,15 @@
   <img align="left" alt="gobardhanm's Codeforces" width="22px" src="https://github.com/gobardhanm/gobardhanm/blob/main/assets/logo/Codeforces.svg" />
 </a>
 
-<a href="https://www.codechef.com/users/ditu_22/" target="_blank">
+<!-- <a href="https://www.codechef.com/users/di/" target="_blank">
   <img align="left" alt="gobardhanm's Codechef" width="22px" src="https://github.com/gobardhanm/gobardhanm/blob/main/assets/logo/Codechef.svg" />
-</a>
+</a> -->
 
 <!-- <a href="https://atcoder.jp/users//" target="_blank"> -->
 <!--   <img align="left" alt="Gobardhanm's Atcoder" width="22px" src="https://github.com/gobardhanm/gobardhanm/blob/main/assets/logo/Atcoder.svg" /> -->
 <!-- </a> -->
 
-<a href="https://leetcode.com/gerry22/" target="_blank">
+<a href="https://leetcode.com/g0bardhan/" target="_blank">
   <img align="left" alt="Gobardhanm's Leetcode" width="22px" src="https://github.com/gobardhanm/gobardhanm/blob/main/assets/leetcode.png" />
 </a>
 
