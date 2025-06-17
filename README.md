@@ -45,7 +45,7 @@
 <br />
 
 **About me:**
-- I am a Btech undergrad in India <img width="16px" src="https://github.com/gobardhanm/gobardhanm/blob/main/assets/gif/Flag.gif" />.
+- I am a masters in CSE in India <img width="16px" src="https://github.com/gobardhanm/gobardhanm/blob/main/assets/gif/Flag.gif" />.
 - I am a Javascript developer trying to be fullstack 🚀.
 - I love to solve mind tackling problems 🧠.
 - I enjoy Cooking, Music and Movies. <img width="16px" src="https://github.com/gobardhanm/gobardhanm/blob/main/assets/gif/OP.gif" />.
